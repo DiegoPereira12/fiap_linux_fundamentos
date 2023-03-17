@@ -1,0 +1,23 @@
+- Trocar senha do meu usuário
+comando: passwd
+
+- Trocar senha de outros usuários ou da root - se tiver permissão
+comando: sudo passwd root
+
+- Adicionar novos usuários
+comando:sudo adduser novousuario
+
+- Para me tornar esse novo usuario
+comando: su novousuario
+
+- Para criar grupo de usuarios
+comando: sudo groupadd ti 
+
+- Adicionar usuário no grupo 
+comando: sudo usermod -Ag ti novousuario
+
+- Bloquear usuario
+comando: sudo usermod -L novousuario
+
+- Desbloquear usuario
+comando: sudo usermod -U novousuario
