@@ -1,0 +1,26 @@
+- Listar diretórios
+comando: ls / ou ls -la /
+ls -lah, permite ver o tamanho dos arquivos de forma mais prática
+
+Obs:
+
+drwxr-xr-x: iniciando com a letra 'D' é referente a diretórios
+lrwxrwxrwx: iniciando com a letra 'L' é referente a diretórios
+
+comando: ls -la /dev
+lista periféricos do sistema
+
+Obs:
+
+crw-rw: iniciando com a letra 'C' transmite em formato caracter.
+drwxr-xr-x: iniciando com a letra 'D' transmite em formato de bits.
+
+rwx: significa que o usuário tem permissão para leitura, edição e execução)
+
+r: read
+w: write
+x: execution
+
+Obs;
+Os arquivos que iniciam comum ponto(.), trata-se de arquivos ocultos.
+
