@@ -1,0 +1,11 @@
+- Mostra diretório atual
+comando: pwd
+
+- Criar novo diretório
+comando mkdir novoDiretorio 
+
+OBS:. Usando / na frente para criar novo diretório na raiz do sistema
+comando:mkdir /novoDiretorio
+
+Cria diretórios em cascata
+comando: mkdir -p novoDiretorio/sub/subsub
