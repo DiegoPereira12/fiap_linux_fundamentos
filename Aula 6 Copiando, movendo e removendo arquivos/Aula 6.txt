@@ -1,0 +1,20 @@
+- Copiar arquivos ou diretórios
+comando: cp + nome_do_arquivo
+
+comando: cp -rvp
+copia diretórios inteiros
+
+- Mover arquivo
+comando: mv + nome_do_arquivo
+
+- Apagar diretórios ou arquivos
+comando: rm + nome_do_arquivo
+
+comando: rmdir
+apaga diretórios vazios
+
+comando: rm -r
+Será pedido permissão para cada arquivo a ser excluído
+
+comando: rm -f 
+Será excluído todos arquivos sem pedir permissão.
