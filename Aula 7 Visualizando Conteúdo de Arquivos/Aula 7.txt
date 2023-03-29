@@ -1,0 +1,12 @@
+- Visualizar contéudo do arquivo todo
+comando: vi + nome_do_arquivo
+
+- Visualizar somente as primeiras linhas
+comando: head -n 5 + nome_do_arquivo
+
+- Visualizar somente as últimas linhas
+comando: heade tail -n 5 + 
+
+- Visualizar arquivo todo
+comando: less + nome_do_arquivo
+

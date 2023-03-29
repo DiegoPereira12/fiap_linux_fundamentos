@@ -1,0 +1,23 @@
+- Instalar pacotes
+
+acessar com usuário root 
+
+comando: apt install sudo
+
+- Desistalar pacotes
+
+acessar com usuário root 
+
+comando: apt remove sudo
+
+- Baixar pacotes para atualizar repositório
+
+comando: apt update
+
+- Confrontar pacotes baixados, com o a versão atual que estou utilizando, para instalar. 
+
+comando: apt upgrade
+
+- Colocar meu usuário em grupo sudo, permite rodas comandos como se fosse super usuário, sem necessidade de estar dentro da root.
+ 
+comando: usermod -Ag sudo diego
