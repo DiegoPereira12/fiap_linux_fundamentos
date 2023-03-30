@@ -10,3 +10,4 @@
 - 1.5 Criando e mudando de diretório
 - 1.6 Copiando, movendo e removendo arquivos
 - 1.7 Visualizando Conteúdo de Arquivos
+- 1.8 Localizar e Baixar Arquivos

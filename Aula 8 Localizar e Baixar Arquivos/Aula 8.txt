@@ -1,0 +1,9 @@
+- Localizar arquivos
+comando: locate 
+
+- Localizar arquivo atraves do conteúdo.
+comando grep 
+
+- Baixar arquivos da internet
+comando: wget + link
+
