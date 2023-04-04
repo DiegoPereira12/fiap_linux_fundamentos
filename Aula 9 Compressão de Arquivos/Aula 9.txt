@@ -1,0 +1,16 @@
+- Descomprimir arquivo
+comando: unzip + nome_do_arquivo
+
+- Visualizar ação antes  de decomprimir arquivos
+comando: comando: unzip -t + nome_do_arquivo 
+
+
+- Comprimir arquivos(Instalar gzip e bzip2)
+comando: tar -czvf + nome_do_arquivo.tar.gz + arquivos que serão comprimidos
+
+- Descomprimir arquivo 
+comando: tar -xzvf *  nome_do_arquivo
+
+
+- Visualizar ação antes  de decomprimir arquivos
+comando: tar -tzvf *  nome_do_arquivo

@@ -1,0 +1,7 @@
+- Derrubar uma rede
+comando: sudo ifconfig + nome_da_rede(eth0) down
+
+- Recuperar um rede
+comando: sudo ifconfig + nome_da_rede(eth0) up
+
+

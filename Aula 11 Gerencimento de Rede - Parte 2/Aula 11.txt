@@ -1,0 +1,2 @@
+- Verificar portas de serviços
+comando: sudo nmap 127.0.0.1
